@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Movable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Movable\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=movingSpeed
+comment1.target=void\ setMovingSpeed(int)
+comment2.params=
+comment2.target=int\ getMovingSpeed()
+comment3.params=
+comment3.target=void\ moveUP()
+comment4.params=
+comment4.target=void\ moveDOWN()
+comment5.params=
+comment5.target=void\ moveLEFT()
+comment6.params=
+comment6.target=void\ moveRIGHT()
+comment7.params=degree
+comment7.target=void\ moveDegree(int)
+comment8.params=
+comment8.target=boolean\ inTheWorld()
+numComments=9

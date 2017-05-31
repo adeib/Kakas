@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Controller\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=act\ movingSpeed
+comment1.target=void\ flyingControl(Fighter,\ int)
+comment2.params=act\ gunCollections
+comment2.target=void\ firingControl(Fighter,\ java.util.List)
+numComments=3

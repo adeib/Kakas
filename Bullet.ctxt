@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=
+comment1.target=int\ getPower()
+comment2.params=power
+comment2.target=void\ setPower(int)
+comment3.params=
+comment3.target=void\ hitTarget()
+comment4.params=x\ y
+comment4.target=void\ setInitialPos(int,\ int)
+comment5.params=x\ y
+comment5.target=Bullet\ setInitialPosAndReturn(int,\ int)
+comment6.params=
+comment6.target=int\ getInitX()
+comment7.params=
+comment7.target=int\ getInitY()
+comment8.params=
+comment8.target=void\ keepMove()
+comment9.params=
+comment9.target=void\ act()
+numComments=10
